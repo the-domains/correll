@@ -1,0 +1,28 @@
+name: Correll
+favicon: null
+layout_spectrum: 0.8338026767596602
+typography_spectrum: 0.6391888651996851
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5621201528701931
+  lightness: 0.17295418214052916
+  saturation: 0.31903021945618093
+  rhythmicContrast: 0.8971041131298989
+purpose: []
