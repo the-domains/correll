@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[We are attempting to see the world]]></title>
+        <description><![CDATA[We are attempting to see the world]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 21 Jun 2016 15:58:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Iceland]]></title>
+            <description><![CDATA[<article><h1>Iceland</h1><p>We departed on June 5th for a 1 month adventure. The first 2 weeks will be a "workcation" working vacation, one week in Iceland and another week with our friends Phil and Christen who live in Utrecht Holland. The thrid and fourth week we will spend in Finland exploring Rachel's home country. She's never been there before and is very much looking forward to it. </p></article>]]></description>
+            <link>undefinediceland/index.html</link>
+            <guid isPermaLink="false">86069f89-ff1e-4f8f-8bae-d2a9df7e7b89</guid>
+            <pubDate>Tue, 21 Jun 2016 15:58:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
